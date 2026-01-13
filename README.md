@@ -1,5 +1,3 @@
-# 2025_Embedded_System_Design
-
 # **2025 Embedded System Design**
 
 ### 시나리오 설정
